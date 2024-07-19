@@ -1,0 +1,29 @@
+<div id="dashboard">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark" style="display: flex; justify-content: space-between;">
+    <div class="container-fluid">
+      <a class="navbar-brand" [routerLink]="['/dashboard']">Books</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link" id="favorite" [routerLink]="['/favorite']">Favourites</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" id="author" [routerLink]="['/author']">Author</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" id="recommended" [routerLink]="['/recommended']">Recommendation</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div style="color: aliceblue; padding-right: 1em;"><mat-icon (click)="logout()">exit_to_app</mat-icon></div>
+  </nav>
+
+  <div class="container mt-4">
+    <router-outlet></router-outlet>
+  </div>
+</div>

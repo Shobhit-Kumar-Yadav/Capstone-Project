@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SHOBHIT\\Desktop\\New folder (4)\\BookApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F095A2D5-1D5C-411C-B090-BDCBF217CA92}|BookApp\\BookApp.csproj|c:\\users\\shobhit\\desktop\\new folder (4)\\bookapp\\bookapp\\controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F095A2D5-1D5C-411C-B090-BDCBF217CA92}|BookApp\\BookApp.csproj|solutionrelative:bookapp\\controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F095A2D5-1D5C-411C-B090-BDCBF217CA92}|BookApp\\BookApp.csproj|c:\\users\\shobhit\\desktop\\new folder (4)\\bookapp\\bookapp\\model\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F095A2D5-1D5C-411C-B090-BDCBF217CA92}|BookApp\\BookApp.csproj|solutionrelative:bookapp\\model\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F095A2D5-1D5C-411C-B090-BDCBF217CA92}|BookApp\\BookApp.csproj|c:\\users\\shobhit\\desktop\\new folder (4)\\bookapp\\bookapp\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F095A2D5-1D5C-411C-B090-BDCBF217CA92}|BookApp\\BookApp.csproj|solutionrelative:bookapp\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F095A2D5-1D5C-411C-B090-BDCBF217CA92}|BookApp\\BookApp.csproj|c:\\users\\shobhit\\desktop\\new folder (4)\\bookapp\\bookapp\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F095A2D5-1D5C-411C-B090-BDCBF217CA92}|BookApp\\BookApp.csproj|solutionrelative:bookapp\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F095A2D5-1D5C-411C-B090-BDCBF217CA92}|BookApp\\BookApp.csproj|c:\\users\\shobhit\\desktop\\new folder (4)\\bookapp\\bookapp\\model\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F095A2D5-1D5C-411C-B090-BDCBF217CA92}|BookApp\\BookApp.csproj|solutionrelative:bookapp\\model\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F095A2D5-1D5C-411C-B090-BDCBF217CA92}|BookApp\\BookApp.csproj|c:\\users\\shobhit\\desktop\\new folder (4)\\bookapp\\bookapp\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F095A2D5-1D5C-411C-B090-BDCBF217CA92}|BookApp\\BookApp.csproj|solutionrelative:bookapp\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F095A2D5-1D5C-411C-B090-BDCBF217CA92}|BookApp\\BookApp.csproj|c:\\users\\shobhit\\desktop\\new folder (4)\\bookapp\\bookapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F095A2D5-1D5C-411C-B090-BDCBF217CA92}|BookApp\\BookApp.csproj|solutionrelative:bookapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F095A2D5-1D5C-411C-B090-BDCBF217CA92}|BookApp\\BookApp.csproj|c:\\users\\shobhit\\desktop\\new folder (4)\\bookapp\\bookapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F095A2D5-1D5C-411C-B090-BDCBF217CA92}|BookApp\\BookApp.csproj|solutionrelative:bookapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F095A2D5-1D5C-411C-B090-BDCBF217CA92}|BookApp\\BookApp.csproj|c:\\users\\shobhit\\desktop\\new folder (4)\\bookapp\\bookapp\\migrations\\20240717101823_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F095A2D5-1D5C-411C-B090-BDCBF217CA92}|BookApp\\BookApp.csproj|solutionrelative:bookapp\\migrations\\20240717101823_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F095A2D5-1D5C-411C-B090-BDCBF217CA92}|BookApp\\BookApp.csproj|c:\\users\\shobhit\\desktop\\new folder (4)\\bookapp\\bookapp\\data\\classapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F095A2D5-1D5C-411C-B090-BDCBF217CA92}|BookApp\\BookApp.csproj|solutionrelative:bookapp\\data\\classapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SHOBHIT\\Desktop\\Project Wipro\\BookApp\\BookApp\\Migrations\\20240717063549_BookApp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SHOBHIT\\Desktop\\Project Wipro\\BookApp\\BookApp\\Migrations\\20240717063335_BookApp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SHOBHIT\\Desktop\\Project Wipro\\BookApp\\BookApp\\Migrations\\20240717063005_BookAppDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SHOBHIT\\Desktop\\Project Wipro\\BookApp\\BookApp\\Migrations\\20240717061415_Jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F095A2D5-1D5C-411C-B090-BDCBF217CA92}|BookApp\\BookApp.csproj|c:\\users\\shobhit\\desktop\\new folder (4)\\bookapp\\bookapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F095A2D5-1D5C-411C-B090-BDCBF217CA92}|BookApp\\BookApp.csproj|solutionrelative:bookapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F095A2D5-1D5C-411C-B090-BDCBF217CA92}|BookApp\\BookApp.csproj|c:\\users\\shobhit\\desktop\\new folder (4)\\bookapp\\bookapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F095A2D5-1D5C-411C-B090-BDCBF217CA92}|BookApp\\BookApp.csproj|solutionrelative:bookapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F095A2D5-1D5C-411C-B090-BDCBF217CA92}|BookApp\\BookApp.csproj|c:\\users\\shobhit\\desktop\\new folder (4)\\bookapp\\bookapp\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F095A2D5-1D5C-411C-B090-BDCBF217CA92}|BookApp\\BookApp.csproj|solutionrelative:bookapp\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\Desktop\\New folder (4)\\BookApp\\BookApp\\Model\\Author.cs",
+              "RelativeDocumentMoniker": "BookApp\\Model\\Author.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\Desktop\\New folder (4)\\BookApp\\BookApp\\Model\\Author.cs",
+              "RelativeToolTip": "BookApp\\Model\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:52:35.895Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Favorite.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\Desktop\\New folder (4)\\BookApp\\BookApp\\Model\\Favorite.cs",
+              "RelativeDocumentMoniker": "BookApp\\Model\\Favorite.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\Desktop\\New folder (4)\\BookApp\\BookApp\\Model\\Favorite.cs",
+              "RelativeToolTip": "BookApp\\Model\\Favorite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:53:14.479Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\Desktop\\New folder (4)\\BookApp\\BookApp\\Program.cs",
+              "RelativeDocumentMoniker": "BookApp\\Program.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\Desktop\\New folder (4)\\BookApp\\BookApp\\Program.cs",
+              "RelativeToolTip": "BookApp\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:31:11.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\Desktop\\New folder (4)\\BookApp\\BookApp\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "BookApp\\Model\\Book.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\Desktop\\New folder (4)\\BookApp\\BookApp\\Model\\Book.cs",
+              "RelativeToolTip": "BookApp\\Model\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:51:57.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\Desktop\\New folder (4)\\BookApp\\BookApp\\Model\\User.cs",
+              "RelativeDocumentMoniker": "BookApp\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\Desktop\\New folder (4)\\BookApp\\BookApp\\Model\\User.cs",
+              "RelativeToolTip": "BookApp\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:51:18.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\Desktop\\New folder (4)\\BookApp\\BookApp\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookApp\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\Desktop\\New folder (4)\\BookApp\\BookApp\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookApp\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:19:39.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FavoritesController.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\Desktop\\New folder (4)\\BookApp\\BookApp\\Controllers\\FavoritesController.cs",
+              "RelativeDocumentMoniker": "BookApp\\Controllers\\FavoritesController.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\Desktop\\New folder (4)\\BookApp\\BookApp\\Controllers\\FavoritesController.cs",
+              "RelativeToolTip": "BookApp\\Controllers\\FavoritesController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:22:04.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240717101823_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\Desktop\\New folder (4)\\BookApp\\BookApp\\Migrations\\20240717101823_Initial.cs",
+              "RelativeDocumentMoniker": "BookApp\\Migrations\\20240717101823_Initial.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\Desktop\\New folder (4)\\BookApp\\BookApp\\Migrations\\20240717101823_Initial.cs",
+              "RelativeToolTip": "BookApp\\Migrations\\20240717101823_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T10:18:25.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClassApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\Desktop\\New folder (4)\\BookApp\\BookApp\\Data\\ClassApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BookApp\\Data\\ClassApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\Desktop\\New folder (4)\\BookApp\\BookApp\\Data\\ClassApplicationDbContext.cs",
+              "RelativeToolTip": "BookApp\\Data\\ClassApplicationDbContext.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwBIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:05:21.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\Desktop\\New folder (4)\\BookApp\\BookApp\\appsettings.json",
+              "RelativeDocumentMoniker": "BookApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\SHOBHIT\\Desktop\\New folder (4)\\BookApp\\BookApp\\appsettings.json",
+              "RelativeToolTip": "BookApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T10:59:01.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240717063335_BookApp.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\Desktop\\Project Wipro\\BookApp\\BookApp\\Migrations\\20240717063335_BookApp.cs",
+              "RelativeDocumentMoniker": "..\\..\\Project Wipro\\BookApp\\BookApp\\Migrations\\20240717063335_BookApp.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\Desktop\\Project Wipro\\BookApp\\BookApp\\Migrations\\20240717063335_BookApp.cs",
+              "RelativeToolTip": "..\\..\\Project Wipro\\BookApp\\BookApp\\Migrations\\20240717063335_BookApp.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:33:35.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240717063549_BookApp.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\Desktop\\Project Wipro\\BookApp\\BookApp\\Migrations\\20240717063549_BookApp.cs",
+              "RelativeDocumentMoniker": "..\\..\\Project Wipro\\BookApp\\BookApp\\Migrations\\20240717063549_BookApp.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\Desktop\\Project Wipro\\BookApp\\BookApp\\Migrations\\20240717063549_BookApp.cs",
+              "RelativeToolTip": "..\\..\\Project Wipro\\BookApp\\BookApp\\Migrations\\20240717063549_BookApp.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:35:49.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240717063005_BookAppDb.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\Desktop\\Project Wipro\\BookApp\\BookApp\\Migrations\\20240717063005_BookAppDb.cs",
+              "RelativeDocumentMoniker": "..\\..\\Project Wipro\\BookApp\\BookApp\\Migrations\\20240717063005_BookAppDb.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\Desktop\\Project Wipro\\BookApp\\BookApp\\Migrations\\20240717063005_BookAppDb.cs",
+              "RelativeToolTip": "..\\..\\Project Wipro\\BookApp\\BookApp\\Migrations\\20240717063005_BookAppDb.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:30:06.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240717061415_Jwt.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\Desktop\\Project Wipro\\BookApp\\BookApp\\Migrations\\20240717061415_Jwt.cs",
+              "RelativeDocumentMoniker": "..\\..\\Project Wipro\\BookApp\\BookApp\\Migrations\\20240717061415_Jwt.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\Desktop\\Project Wipro\\BookApp\\BookApp\\Migrations\\20240717061415_Jwt.cs",
+              "RelativeToolTip": "..\\..\\Project Wipro\\BookApp\\BookApp\\Migrations\\20240717061415_Jwt.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:14:15.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\Desktop\\New folder (4)\\BookApp\\BookApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BookApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\Desktop\\New folder (4)\\BookApp\\BookApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BookApp\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAcwA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:18:26.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\Desktop\\New folder (4)\\BookApp\\BookApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BookApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\SHOBHIT\\Desktop\\New folder (4)\\BookApp\\BookApp\\appsettings.Development.json",
+              "RelativeToolTip": "BookApp\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T11:09:31.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\Desktop\\New folder (4)\\BookApp\\BookApp\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "BookApp\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\Desktop\\New folder (4)\\BookApp\\BookApp\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "BookApp\\Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:20:51.63Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

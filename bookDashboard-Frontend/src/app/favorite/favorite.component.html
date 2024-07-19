@@ -1,0 +1,22 @@
+<app-topnav></app-topnav>
+<div class="container mt-4">
+    <h2>Favourite Books</h2>
+    <div class="row mt-2">
+      <div *ngIf="favouriteBooks.length === 0" class="text-center text-danger">
+        <h4>No favourite books found</h4>
+      </div>
+      <div *ngFor="let book of favouriteBooks" class="col-md-3">
+        <div class="card mb-3">
+          <!-- <img *ngIf="book.coverImageUrl" [src]="getCoverImageUrl(book.coverImageUrl)" class="card-img-top" height="300px" alt="Book cover"> -->
+          <img *ngIf="book.coverImageUrl" [src]="(book.coverImageUrl)" class="card-img-top" height="300px" alt="Book cover">
+
+          <div class="card-body">
+            <h5 class="card-title">{{ book.title }}</h5>
+            <p class="card-text">Author: {{ book.author }}</p>
+            <p class="card-text">Description: {{ book.description }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  

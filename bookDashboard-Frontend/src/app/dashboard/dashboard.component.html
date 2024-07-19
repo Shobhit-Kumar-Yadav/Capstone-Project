@@ -1,0 +1,65 @@
+<app-topnav></app-topnav>
+<div class="container mt-4">
+  <div class="dashdiv">
+    <h2>Dashboard</h2>
+    <form class="d-flex" role="search" (ngSubmit)="onSearch()">
+      <input class="form-control me-2" type="search" [(ngModel)]="searchQuery" name="searchQuery" placeholder="Search a book or author..." aria-label="Search">
+      <button class="btn btn-outline-success" type="submit">Search</button>
+    </form>
+  </div>
+
+  <button *ngIf="searchBack" type="button" class="btn btn-outline-dark" (click)="goToDashboard()">Dashboard</button>
+    
+  <div class="row mt-2">
+    <p *ngIf="loading" style="text-align: center; font-weight: 600;">Loading.......</p>
+
+    <!-- Display search results if available -->
+    <div *ngIf="searchBack">
+      <div *ngIf="searchResults.length > 0 && searchQuery.trim() !== ''" class="row mt-2">
+        <h4 *ngIf="!loading">Searched Items:</h4>
+        <div class="col-md-3" *ngFor="let book of searchResults">
+          <div class="card mb-3">
+            <img *ngIf="book.cover_i" [src]="getCoverImageUrl(book.cover_i)" class="card-img-top" height="300px" alt="Book cover">
+            <div class="card-body">
+              <h5 class="card-title">{{ book.title }}</h5>
+              <p class="card-text">Author: {{ book.author_name ? book.author_name.join(', ') : 'Unknown' }}</p>
+              <p class="card-text">First published: {{ book.first_publish_year }}</p>
+              <p class="card-text">Rating: {{ book.ratings_average ? (book.ratings_average | number:'1.1-1') : 'No rating available' }}</p>
+              <button class="btn btn-outline-primary" (click)="addToFavourite(book)">Add to Favourite</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Display 'No records found' if search results are empty -->
+      <div *ngIf="!loading && searchResults.length === 0 && searchQuery.trim() !== ''">
+        <h2 class="text-danger" style="text-align: center;">No records found</h2>
+      </div>
+    </div>
+
+    <!-- Display popular books if no search results -->
+    <div *ngIf="!searchBack">
+      <div *ngIf="searchResults.length === 0" class="row mt-2">
+        <h4 *ngIf="!loading">Popular Books:</h4>
+        
+        <!-- No books found message -->
+        <div *ngIf="!loading && books.length === 0" class="text-center text-danger">
+          <h4>No books found</h4>
+        </div>
+    
+        <!-- Book cards -->
+        <div *ngFor="let book of books" class="col-md-3">
+          <div class="card mb-3">
+            <img *ngIf="book.coverImageUrl" [src]="(book.coverImageUrl)" class="card-img-top" height="300px" alt="Book cover">
+            <div class="card-body">
+              <h5 class="card-title">{{ book.title }}</h5>
+              <p class="card-text">Author: {{ book.author ? book.author.name : 'Unknown' }}</p>
+              <p class="card-text">Description: {{ book.description }}</p>
+              <button class="btn btn-outline-primary" (click)="addToFavourite(book)">Add to Favourite</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
